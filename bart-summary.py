@@ -4,11 +4,11 @@ from transformers import pipeline
 import nltk
 nltk.download('punkt')
 
-DOC_PATH = "./transcription"
-SAVE_PATH = "./summary"
+DOC_PATH = "./demo-outputs/transcription"
+SAVE_PATH = "./demo-outputs/summary"
 
 try:
-    os.mkdir(SAVE_PATH)
+    os.makedirs(SAVE_PATH)
 except FileExistsError:
     pass
 

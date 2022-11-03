@@ -3,13 +3,13 @@ import glob
 import openai
 
 openai.organization = "org-8N0WvHbxuFb28ynqvN9F2fG3"
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
-DOC_PATH = "./summary"
-SAVE_PATH = "./answers"
+DOC_PATH = "./demo-outputs/summary"
+SAVE_PATH = "./demo-outputs/answers"
 
 try:
-    os.mkdir(SAVE_PATH)
+    os.makedirs(SAVE_PATH)
 except FileExistsError:
     pass
 

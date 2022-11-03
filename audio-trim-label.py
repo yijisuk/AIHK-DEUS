@@ -1,8 +1,8 @@
 import os
 from pydub import AudioSegment
 
-AUDIO_FILENAME = "andrew-ng-machine-learning.wav"
-LABEL_FILENAME = "label-details.txt"
+AUDIO_FILENAME = "./andrewng-ml/andrew-ng-machine-learning.wav"
+LABEL_FILENAME = "./andrewng-ml/label-details.txt"
 
 file = AudioSegment.from_file(AUDIO_FILENAME)
 SAVE_PATH = "./audio"

@@ -34,11 +34,11 @@ def return_keyphrases(text):
     return filtered
 
 
-DOC_PATH = "./summary"
-SAVE_PATH = "./keyphrases"
+DOC_PATH = "./demo-outputs/summary"
+SAVE_PATH = "./demo-outputs/keyphrases"
 
 try:
-    os.mkdir(SAVE_PATH)
+    os.makedirs(SAVE_PATH)
 except FileExistsError:
     pass
 

@@ -20,9 +20,9 @@ def get_question(answer, context, max_length=64):
     return tokenizer.decode(output[0]).replace("<pad> question: ", "").replace("</s>", "")
 
 
-KEYPH_PATH = "./keyphrases"
-DOC_PATH = "./summary"
-SAVE_PATH = "./questions/t5-questions"
+KEYPH_PATH = "./demo-outputs/keyphrases"
+DOC_PATH = "./demo-outputs/summary"
+SAVE_PATH = "./demo-outputs/questions/t5-questions"
 
 try:
     os.makedirs(SAVE_PATH)

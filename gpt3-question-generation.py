@@ -3,11 +3,11 @@ import glob
 import openai
 
 openai.organization = "org-8N0WvHbxuFb28ynqvN9F2fG3"
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
-KEYPH_PATH = "./keyphrases"
-DOC_PATH = "./summary"
-SAVE_PATH = "./questions/gpt3-questions"
+KEYPH_PATH = "./demo-outputs/keyphrases"
+DOC_PATH = "./demo-outputs/summary"
+SAVE_PATH = "./demo-outputs/questions/gpt3-questions"
 
 try:
     os.makedirs(SAVE_PATH)

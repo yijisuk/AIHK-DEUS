@@ -5,12 +5,12 @@ import nltk
 nltk.download('punkt')
 
 AUDIO_PATH = "./audio"
-SAVE_PATH = "./transcription"
+SAVE_PATH = "./demo-outputs/transcription"
 
 model = whisper.load_model("base")
 
 try:
-    os.mkdir(SAVE_PATH)
+    os.makedirs(SAVE_PATH)
 except FileExistsError:
     pass
 
