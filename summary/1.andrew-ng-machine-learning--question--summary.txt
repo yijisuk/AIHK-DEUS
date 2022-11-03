@@ -1,0 +1,4 @@
+In this class, I hope to teach you about various different types of learning algorithms.
+The main two types are what we call super.
+and super-super-super.
+Throughout these videos, I'll occasionally ask you a question.

@@ -1,0 +1,19 @@
+What is machine learning?
+In this video, we will try to define what it is and also try to give you a sense of when you want to use machine learning.
+Even among machine learning practitioners, there isn't a well-accepted definition of what is and what isn't machine learning.
+But let me show you a couple of examples of the ways that people have tried to define it.
+Here's a definition of what is machine learning that is due to autosamil.
+He defined machine learning as the field of study that gives computers the ability to learn without being explicitly programmed.
+Samuel's claim to fame was that back in the 1950s, he wrote a checkers playing program.
+And the amazing thing about this checkers playing program was that autosamil himself wasn't a very good checkers player.
+But what he did was he had to program play tens of thousands of games against himself.
+And by watching what sorts of board positions tended to lead to wins and what sort of board positions tended to lead to losses, the checkers playing program learned over time what are good board positions and what are bad board positions, and eventually learned to play checkers better than autosamil himself was able to.
+This was a remarkable result.
+Autosamil himself turned out not to be a very good checkers player, but because the computer has the patience to play tens of thousands of games against himself, no human has the patience to play that many games.
+By doing this, the computer was able to get so much checkers playing experience that it eventually became a better checkers player than autosamil himself.
+This is somewhat informal definition and an older one.
+Here's a slightly more recent definition by Tom Mitchell, who's a friend, Alden Kahnigy-Mellon.
+So Tom defines machine learning by saying that a well-posed learning problem is defined as follows.
+He says a computer program is said to learn from experience E will respect to some task T and some performance measure P, and if it's performance on T as measured by P, imprusive experience E, I actually think he came up with this definition just to make it rhyme.
+For the checkers playing examples, the experience E would be the experience of having the program play tens of thousands of games against itself.
+The task T would be the task of playing checkers, and the performance measure P would be the probability that it wins the next game of checkers again.

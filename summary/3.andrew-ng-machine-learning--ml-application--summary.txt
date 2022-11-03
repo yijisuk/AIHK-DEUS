@@ -1,0 +1,2 @@
+In the next video, I'm going to define what is supervised learning and after that what is unsupervised learning.
+I hope to make you one of the best people at knowing how to design and build serious machine learning and AI systems.

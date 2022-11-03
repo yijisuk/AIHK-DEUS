@@ -1,0 +1,8 @@
+unsupervised learning.
+I'll define what these terms mean more in the next couple videos but it turns out that in supervised learning the idea is we're going to teach the computer how to do something whereas in unsupervised learning we're going to learn by itself.
+Don't worry if these two terms don't make sense yet in the next two videos I'm going to say exactly what these two types of learning are.
+You might also hear other buzz terms such as reinforcement learning and recommend the systems.
+These are other types of machine learning algorithms that we'll talk about later but the two most used types of learning algorithms are probably supervised learning and unsupervised learning and I'll define them in the next two videos and we'll spend most of this class talking about these two types of learning algorithms.
+It turns out one of the other things was spent a lot of time on this class is practical advice for applying learning algorithms.
+This is something that I feel pretty strongly about and it's actually something that I don't know of any other university teachers.
+Teaching about learning algorithms is like giving a set of tools and equally important or more important than giving the tools as a teacher.

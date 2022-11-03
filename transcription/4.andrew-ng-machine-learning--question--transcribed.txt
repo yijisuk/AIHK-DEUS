@@ -1,0 +1,12 @@
+Throughout these videos, besides me trying to teach you stuff, I'll occasionally ask you a question to make sure you understand the content.
+Here's one.
+On top is the definition of machine learning by Tom Mitchell.
+Let's say your email program watches which emails you do or do not flag a spam.
+So in an email client like this, you might click this spam button to report some email to a spam but not other emails.
+And based on which emails you mark a spam, say your email program learns better how to filter a spam email.
+What is the task T in the setting?
+In a few seconds, the video will pause and when it does so, you can use your mouse to select one of these four radio buttons to let me know which of these four you think is the right answer to this question.
+So hopefully you got that this is the right answer.
+Classifying emails is a task T. In fact, this definition defines a task T, a performance measure P, and this experience E. And so watching you label emails as spam or not spam, this would be the experience E. And the faction of emails correctly classified, that might be a performance measure P. And so our task performance, our systems performance on the task T, on the performance measure P will improve after the experience E. In this class, I hope to teach you about various different types of learning algorithms.
+There are several different types of learning algorithms.
+The main two types are what we call super.

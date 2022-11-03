@@ -1,0 +1,2 @@
+Q: What is the difference between supervised learning and unsupervised learning?
+A:  Supervised learning is where you have an input and an output and you use a training set to teach the computer how to produce the output given the input. Unsupervised learning is where you only have an input and you let the computer try to find patterns in the data.

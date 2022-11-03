@@ -1,0 +1,2 @@
+Q: What is supervised learning?
+A:  Supervised learning is a machine learning technique where the machine is given a set of training data, and the desired output, and the machine "learns" to produce the desired output from the training data.

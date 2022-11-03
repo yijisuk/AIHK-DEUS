@@ -1,0 +1,3 @@
+There isn't a well-accepted definition of what is and what isn't machine learning.
+In this video, we will try to define what it is and also try to give you a sense of when you want to use it.
+The field of study gives computers the ability to learn without being explicitly programmed.

@@ -1,0 +1,1 @@
+ What is an example of a task that is suitable for supervised learning?
